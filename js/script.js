@@ -17,5 +17,6 @@ while (i < list.length) {
     // listContainer.append(listItem);
 
     i++;
+    
 
 };
