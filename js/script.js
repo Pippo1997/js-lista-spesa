@@ -1,7 +1,7 @@
 // array contenente lista spesa
 const list = [`pane`,`latte`,`cioccolata`,`soda`,`prosciutto`,`carne`,`pollo`]
 
-const listContainer = document.querySelector(`shopping-list`);
+const listContainer = document.querySelector(`.shopping-list`);
 
 // ciclo while
 let i = 0;
